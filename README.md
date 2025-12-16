@@ -3,7 +3,7 @@
 
 ### Process
 
-Historical Data → Frequency Model → Severity Model → Loss Function
+`Historical Data → Frequency Model → Severity Model → Loss Function`
                                            
                                            ↓
                                            
@@ -16,3 +16,7 @@ Historical Data → Frequency Model → Severity Model → Loss Function
                                            ↓
                                            
                                Reinsurance Layer Analysis
+
+ ### Data set
+ 
+ Is from: https://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html
