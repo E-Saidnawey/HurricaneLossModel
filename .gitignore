@@ -1,4 +1,6 @@
+
 venv/*
 
 *.txt
 *.csv
+*/__pycache__/*
